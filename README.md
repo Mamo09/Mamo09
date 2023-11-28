@@ -8,5 +8,3 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Mamo09&show_icons=true&include_all_commits=true)](https://github.com/Mamo09/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamo09&layout=compact)](https://github.com/Mamo09/github-readme-stats)
 
-
-https://drive.google.com/file/d/1ywjXtQWH_nXkxOxsFl3ooLiWlhmoyr3h/view?usp=sharing
